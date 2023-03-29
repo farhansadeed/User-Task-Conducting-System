@@ -1,8 +1,6 @@
-# Task-Management-System-Laravel
-# Laravel | Complete Task Management System
+# User-Task-Conducting-System
+## This is a task operation system for the users.
 
-
-A simple task management app
 
 ## Getting Started
 
